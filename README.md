@@ -5,7 +5,7 @@ Typically, the primary way to assess a patient’s respiratory health is to list
 This project was inspired by this Kaggle post: https://www.kaggle.com/vbookshelf/respiratory-sound-database
 
 ### How to run the project 
-#### **1** Create a virtual environment "deeplearning" and install modules needed as provided in the library.ipynb file
-#### **2** Download Data from Kaggle and run it using the path of where the data is stored on your computer. You can load in the data using the Capstone Main Code.ipynb file.
-#### **3** To preprocess the data, you can choose different envelope analysis functions (I used RMS root mean square envelope analysis), other functions are stored in the Function.ipynb
-#### **4** Run the models you want to test.
+#### **1)** Create a virtual environment "deeplearning" and install modules needed as provided in the library.ipynb file
+#### **2)** Download Data from Kaggle and run it using the path of where the data is stored on your computer. You can load in the data using the Capstone Main Code.ipynb file.
+#### **3)** To preprocess the data, you can choose different envelope analysis functions (I used RMS root mean square envelope analysis), other functions are stored in the Function.ipynb
+#### **4)** Run the models you want to test.
